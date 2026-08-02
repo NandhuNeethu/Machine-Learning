@@ -1,5 +1,5 @@
 # Machine-Learning
-Machine Learning-based crop recommendation system using soil and environmental parameters.
+Machine Learning-based crop recommendation system using soil nutrients and environmental parameters.
 
 ## Project Overview
 
